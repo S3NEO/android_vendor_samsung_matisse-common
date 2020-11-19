@@ -25,14 +25,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matisse-common/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
     vendor/samsung/matisse-common/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
     vendor/samsung/matisse-common/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
-    vendor/samsung/matisse-common/proprietary/vendor/bin/ds_fmc_appd:system/vendor/bin/ds_fmc_appd \
-    vendor/samsung/matisse-common/proprietary/vendor/bin/efsks:system/vendor/bin/efsks \
     vendor/samsung/matisse-common/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/samsung/matisse-common/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
-    vendor/samsung/matisse-common/proprietary/vendor/bin/ks:system/vendor/bin/ks \
     vendor/samsung/matisse-common/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
     vendor/samsung/matisse-common/proprietary/vendor/bin/mpdecision:system/vendor/bin/mpdecision \
-    vendor/samsung/matisse-common/proprietary/vendor/bin/qcks:system/vendor/bin/qcks \
     vendor/samsung/matisse-common/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
     vendor/samsung/matisse-common/proprietary/vendor/bin/qseecomd:system/vendor/bin/qseecomd \
     vendor/samsung/matisse-common/proprietary/vendor/bin/radish:system/vendor/bin/radish \
@@ -65,12 +61,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libaf_algo_rear.so:system/vendor/lib/libaf_algo_rear.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libarcsoft_panorama_burstcapture.so:system/vendor/lib/libarcsoft_panorama_burstcapture.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libarcsoft_selfie_camera_lite.so:system/vendor/lib/libarcsoft_selfie_camera_lite.so \
-    vendor/samsung/matisse-common/proprietary/vendor/lib/libatparser.so:system/vendor/lib/libatparser.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libawb_algo_front.so:system/vendor/lib/libawb_algo_front.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libawb_algo_rear.so:system/vendor/lib/libawb_algo_rear.so \
-    vendor/samsung/matisse-common/proprietary/vendor/lib/libcordon.so:system/vendor/lib/libcordon.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
-    vendor/samsung/matisse-common/proprietary/vendor/lib/libfactoryutil.so:system/vendor/lib/libfactoryutil.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libmmcamera2_stats_algorithm.so:system/vendor/lib/libmmcamera2_stats_algorithm.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libmmcamera_cac.so:system/vendor/lib/libmmcamera_cac.so \
@@ -79,8 +72,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libmmcamera_interface.so:system/vendor/lib/libmmcamera_interface.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libmmcamera_wavelet_lib.so:system/vendor/lib/libmmcamera_wavelet_lib.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libmmjpeg_interface.so:system/vendor/lib/libmmjpeg_interface.so \
-    vendor/samsung/matisse-common/proprietary/vendor/lib/libomission_avoidance.so:system/vendor/lib/libomission_avoidance.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
+    vendor/samsung/matisse-common/proprietary/vendor/lib/libprotobuf-cpp-full-v23.so:system/vendor/lib/libprotobuf-cpp-full-v23.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libqomx_core.so:system/vendor/lib/libqomx_core.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
@@ -101,8 +94,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libdrmtime.so:system/vendor/lib/libdrmtime.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
-    vendor/samsung/matisse-common/proprietary/vendor/lib/libdsnetutils.so:system/vendor/lib/libdsnetutils.so \
-    vendor/samsung/matisse-common/proprietary/vendor/lib/libdsucsd.so:system/vendor/lib/libdsucsd.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libfastcvadsp_stub.so:system/vendor/lib/libfastcvadsp_stub.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
