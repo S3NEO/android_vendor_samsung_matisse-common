@@ -56,10 +56,15 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matisse-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
+    vendor/samsung/matisse-common/proprietary/vendor/lib/libaec_algo_front.so:system/vendor/lib/libaec_algo_front.so \
+    vendor/samsung/matisse-common/proprietary/vendor/lib/libaec_algo_rear.so:system/vendor/lib/libaec_algo_rear.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libAfSingle.so:system/vendor/lib/libAfSingle.so \
+    vendor/samsung/matisse-common/proprietary/vendor/lib/libaf_algo_rear.so:system/vendor/lib/libaf_algo_rear.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libarcsoft_panorama_burstcapture.so:system/vendor/lib/libarcsoft_panorama_burstcapture.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libarcsoft_selfie_camera_lite.so:system/vendor/lib/libarcsoft_selfie_camera_lite.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libatparser.so:system/vendor/lib/libatparser.so \
+    vendor/samsung/matisse-common/proprietary/vendor/lib/libawb_algo_front.so:system/vendor/lib/libawb_algo_front.so \
+    vendor/samsung/matisse-common/proprietary/vendor/lib/libawb_algo_rear.so:system/vendor/lib/libawb_algo_rear.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libcordon.so:system/vendor/lib/libcordon.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libfactoryutil.so:system/vendor/lib/libfactoryutil.so \
